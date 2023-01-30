@@ -30,3 +30,15 @@ Ficha_Pacientes <- data.frame(Id, Nomes, Peso,
                               Exerc_Recomend, Comidas_preferidas)
 #Função para ver o data frame
 View(Ficha_Pacientes)
+
+#Identificar o diretório de trabalho####
+#Função para identificar o caminho em que o arquivo de script será salvo
+getwd()
+#[1] "C:/Users/nayar/OneDrive/8. AMBIENTE DE PROGRAMAÇÃO R/1. CURSO 2023"
+
+#Função manual para selecionar o diretório de trabalho
+setwd("C:/Users/nayar/OneDrive/8. AMBIENTE DE PROGRAMAÇÃO R/1. CURSO 2023")
+
+#salvar#####
+#Função para salvar o data frame
+save(Ficha_Pacientes, file = "Ficha_Pacientes.RData")
