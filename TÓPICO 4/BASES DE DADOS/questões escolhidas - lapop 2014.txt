@@ -1,0 +1,44 @@
+LS3. Para começar, em geral, até que ponto o(a) sr./sra. está satisfeito(a) com sua 
+vida? O(A) sr./sra. diria que está...[Leia as Alternativas]? 
+(1) Muito satisfeito(a) (2) Pouco satisfeito(a) (3) Pouco insatisfeito(a) 
+(4) Muito insatisfeito(a) (88) NS (98) NR 
+
+
+Q1. Sexo [anote sem perguntar]: (1) Homem (2) Mulher
+
+Q2Y. Em que ano o(a) sr./sra. nasceu?________ ano (8888) NS (9888) NR Junto a essa questão tem uma de edad
+
+Q10NEW. Em qual das seguintes categorias se encontra a renda familiar mensal dessa casa, 
+incluindo as remessas do exterior e a renda de todos os adultos e filhos que trabalham? 
+[Se não entende perguntar: Quanto dinheiro entra no total em sua casa por mês?] 
+
+Q10D. O salário ou renda que o sr./sra. recebe e o total da renda da família...: [Leia as 
+alternativas] 
+(1) Sobra, dá para economizar/poupar 
+(2) É suficiente, não gera grandes dificuldades 
+(3) Não é suficiente, gera dificuldades 
+(4) Não é suficiente, gera grandes dificuldades 
+
+Q11n. Qual o seu estado civil? [Leia as alternativas] 
+(1) Solteiro 
+(2) Casado 
+(3) Amigado(a) (casado na prática mas não no papel) 
+(4) Divorciado 
+(5) Separado 
+(6) Viúvo 
+(7) União Civil
+
+Q12C. Quantas pessoas no total vivem no seu lar neste momento? _
+
+Q12. O(A) sr./sra. tem filhos? Quantos? 
+
+
+OCUP4A. A que o(a) sr./sra. se dedica atualmente? O(A) sr./sra. está: [Leia alternativas]
+(1) Trabalhando? [Continue]
+(2) Não está empregado neste momento, mas tem trabalho? [Continue]
+(3) Está procurando emprego ativamente? [Vá para Q10NEW]
+(4) É estudante? [Vá para Q10NEW]
+(5) Se dedica aos afazeres de sua casa? [Vá para Q10NEW]
+(6) É aposentado(a) ou incapacitado(a) permanentemente para trabalhar? [Vá para 
+Q10NEW]
+(7) Não trabalha e não está procurando emprego? [Vá para Q10NEW]
